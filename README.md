@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Expense Tracker App
+The Project is a expense tracker website i developed while learning react. You can track expense, add expense, apply filters on it and visualize the expense per month. 
 
 ## Available Scripts
 
